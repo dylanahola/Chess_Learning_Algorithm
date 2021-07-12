@@ -1,4 +1,4 @@
-# Chess_Learning_Algorithm
+# Chess_Learning_Model
 I really enjoy chess and decided to build a project where I could enjoy that interest with my data science skills.
 #I found this chess dataset on kaggle (found here: https://www.kaggle.com/datasnaek/chess) and decided to build a machine learning model to see how well it could predict the winner/outcome of matches. 
  
