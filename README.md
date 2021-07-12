@@ -11,8 +11,8 @@ I really enjoy chess and decided to build a project where I could enjoy that int
 
 #I find a lot of use in histograms and like to use them as a visualization tool to look at the data is distributed. This visualization shows the distribution of player ratings, how common each time setting is, and even the amount of turns that most games finish with.
 
-![image](https://user-images.githubusercontent.com/82009362/125331084-216fff00-e30d-11eb-8a68-ee06fcea991d.png)
-
+![image](https://user-images.githubusercontent.com/82009362/125333541-f89d3900-e30f-11eb-8106-5512b1637ebd.png)
+ 
 
 #I thought it would be important to visualize and note that white pieces win more often than black pieces. This occurs since the player with the white pieces gets the first move and starts off with an advantage. This impacts players move choices and overall gameplans esspecially in tournaments. 
 
